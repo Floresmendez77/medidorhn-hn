@@ -33,20 +33,6 @@ Permite llevar un historial detallado de lecturas de medidores, estimar facturas
 - Generar y compartir reportes en PDF, JSON y CSV.
 - Funcionar sin conexión a internet con datos almacenados en SQLite local.
 
----
-
-## 📱 Capturas de pantalla
-
-| Inicio | Lecturas | Factura |
-|---|---|---|
-| _(pegar captura)_ | _(pegar captura)_ | _(pegar captura)_ |
-
-| Simulador | Gráficos | Backup |
-|---|---|---|
-| _(pegar captura)_ | _(pegar captura)_ | _(pegar captura)_ |
-
----
-
 ## ✨ Funcionalidades
 
 La app está organizada en **9 pantallas** accesibles desde la barra de navegación inferior:
@@ -217,8 +203,6 @@ No, analiza el patrón de lecturas y alerta si detecta consumo continuo sin vari
 ---
 
 ## 👥 Integrantes
-
-| Nombre | Cuenta |
 Andrew Estheven Flores Mendez 32411508
 
 **Docente:** Ing. Alejandro Cruz
